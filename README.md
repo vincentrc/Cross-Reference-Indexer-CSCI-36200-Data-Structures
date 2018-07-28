@@ -1,1 +1,1 @@
-# Cross-Reference-Indexer-CSCI-36200-Data-Structures
+This program creates a cross-reference index for an input text file. It iterates through the file word by word, and sorts them into a binary search tree, keeping a linked-list of each line number on which a word occurs on the tree node for that word. Please see the report for info. 
